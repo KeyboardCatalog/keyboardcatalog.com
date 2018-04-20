@@ -1,0 +1,16 @@
+enabled: true
+backup:
+  testmode:
+    enabled: false
+    compressionratio: 1.2
+  phptimeout: 600
+  storage:
+    maxspace: 10
+    keepdays: 30
+    showbackups: 90
+  log: true
+  ignore:
+    foldercase: true
+    toplevelintersect: false
+    foldersintersect: false
+    forceaddasempty: false

@@ -1,0 +1,27 @@
+	<!--section class="filters"  style="">
+	{% import 'partials/cascade-filters.html.twig' as f %}
+
+		{% set taxlist = cascadeFilters.get() %} {# get texonomy list #}
+		{% set queries = uri.query(null, true) %} {# get queries as Array #}
+		
+		{% if taxlist %}
+			{% for key, values in taxlist %}
+				
+				<ul class="is-clearfix">
+					<span class="filterLabel">{{ key }}:</span> {% for tax in values|keys %}
+						<li>
+							{{ f.genQueryUrl(queries|sort,key,tax, page.url, cascadeFilters) }}
+						</li>
+					{% endfor %}
+				</ul>
+			{% endfor %}
+			<a href="{{ page.url }}" class="button filters">Clear filters</a>
+		{% endif %}
+	{% set queries = uri.query(null, true) %}
+	{% if queries is empty %}
+		{% set collection = page.collection %}
+	{% else %}
+		{% set collection = taxonomy.findTaxonomy(queries) %}
+	{% endif %}
+
+	</section-->

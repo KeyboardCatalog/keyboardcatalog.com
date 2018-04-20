@@ -1,0 +1,19 @@
+# Global plugin configurations
+
+enabled: true             # Set to false to disable this plugin completely
+sandbox: false            # Enables a demo mode for local purpose
+
+# Default configurations for AdSense
+
+adsense:
+  options:
+    type: "banner"        # Assets type (either "banner" or "fixed")
+    direction: "top"      # Assets direction (either "left", "right", "top", "bottom")
+    priority: -999        # Priority to add CSS or JS to Grav pipeline, bigger comes first
+    pipeline: false       # Pipeline assets or not
+    load: ""              # Load asset either asynchronously "async", deferred "defer" or normal ""
+    resource: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" # AdSense script url
+
+  data:
+    client: "ca-pub-1147018993230160"     # AdSense client
+    slot: 1160605533                      # AdSense slot

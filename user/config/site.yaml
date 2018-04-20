@@ -1,0 +1,27 @@
+title: 'Keyboard Catalog'
+default_lang: en
+author:
+  name: Koduh
+  email: sonorankeyboards@gmail.com
+taxonomies:
+  - category
+  - tag
+  - size
+  - build
+  - switch
+  - lighting
+  - programmability
+  - creator
+  - website
+  - weblink
+  - availability
+metadata:
+  description: 'Categorical Lists of Mechanical Keyboards, featuring the best list of 65% Keyboards on the planet.'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
+description: 'Categorical Lists of Keyboards.<br> Featuring the best list of 65% Keyboards on the planet.'

@@ -1,0 +1,21 @@
+# Home Page Title
+title: 'Mesut Koca · Web Developer'
+description: 'Thoughts, stories and ideas.'
+
+author:
+  name: 'Devin Bryce aka /u/koduh'
+  email: contact@keyboardcatalog.com
+  # Avatar image optional (under your/site/user/themes/masonry/images/avatar.png)
+  image: avatar10.jpg
+  # Optional
+  link: 'https://twitter.com/devbryce'
+  # Optional
+  location: Arizona, USA
+  # Optional
+  bio: 'The keyboard whisperer.'
+
+
+# Optional
+disqus: devbryce
+# Optional (under your/site/user/themes/masonry/images/logofile.png)
+logo: 

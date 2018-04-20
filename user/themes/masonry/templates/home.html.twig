@@ -1,0 +1,39 @@
+{% embed 'partials/base.html.twig' %}
+
+{% block body %}
+<body class="post-template nav-closed" itemscope itemtype="http://schema.org/Article">
+{% endblock %}
+
+{% block content %}
+
+<header class="main-header {% if page.header.cover %}" style="background-image: url({{ page.media[page.header.cover].url }}) {% else %} no-cover {% endif %}">
+    <nav class="main-nav overlay clearfix">
+        {% if site.logo %}
+            <a class="blog-logo" href="{{base_url}}"><img src="{{ theme_url }}/images/{{site.logo}}" alt="{{ site.title}}" width="100%" height="100%" /></a>
+        {% endif %}
+
+        <a class="menu-button icon-menu" href="#">
+            <label for="show-menu" class="word">{{ 'THEME_MASONRY.MENU_TITLE'|t }}</label>
+        </a>
+    </nav>
+    <div class="vertical">
+        <div class="main-header-content inner">
+            <h1 class="page-title">{{ site.title }}</h1>
+            <h2 class="page-description">{{ site.description }}</h2>
+        </div>
+    </div>
+</header>
+
+<main class="content" role="main">
+    <article class="post page">
+        <section class="post-content">
+            {{content}}
+        </section>
+    </article>
+</main>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}
+
+{% endembed %}

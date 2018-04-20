@@ -1,0 +1,10 @@
+enabled: false
+select_pages:
+  - /65-percent
+  - /75-percent
+taxonomy_filters:
+  - availability
+  - build
+  - switch
+  - lighting
+  - programmability

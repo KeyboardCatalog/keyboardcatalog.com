@@ -1,0 +1,6 @@
+enabled: true
+
+enable_on_routes:
+  - '/75-percemt'
+  - '/65-percemt'
+  - '/60-percemt'

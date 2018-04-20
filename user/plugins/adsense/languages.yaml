@@ -1,0 +1,69 @@
+# German
+de:
+  PLUGIN_ADSENSE:
+    GLOBAL_CONFIG: "Globale Einstellungen"
+    DEFAULT_CONFIG: "Standardeinstellungen für AdSense"
+    SANDBOX_STATUS: "Sandbox"
+    SANDBOX_HELP: "Sandbox shows you demo ads for testing purpose"
+    PLUGIN_STATUS: "Plugin Status"
+
+    OPTIONS_LABEL: "Optionen"
+    OPTIONS:
+      TYPE: "Typ der Anzeige"
+      BANNER: "Banner"
+      FIXED: "Fixiert"
+      DIRECTION: "Ausrichtung der Anzeige"
+      LEFT: "Links"
+      RIGHT: "Rechts"
+      TOP: "Oben"
+      BOTTOM: "Unten"
+      PRIORITY: "Priorität"
+      PRIORITY_HELP: "Priorität von AdSense, wenn es zur Grav Pipeline hinzugefügt wird: größere Werte werden zuerst geladen"
+      PIPELINE: "Kombinieren"
+      LOAD: "Ladeverhalten"
+      LOAD_HELP: 'Asynchrones (async), verzögertes (defer) oder syncrones (none) laden von AdSense'
+      NONE: "None"
+      ASYNC: "Async"
+      DEFER: "Defer"
+      RESOURCE: "AdSense API JavaScript"
+
+    DATA_LABEL: "Keys"
+    DATA_HELP: "Mehr über die zu angebenden Daten hier finden Sie auf google.com/adsense/"
+    DATA:
+      CLIENT: "Klient-ID von AdSense"
+      SLOT: "Slot-ID von AdSense"
+
+# English
+en:
+  PLUGIN_ADSENSE:
+    GLOBAL_CONFIG: "Global Settings"
+    DEFAULT_CONFIG: "Default Configuration for AdSense"
+    SANDBOX_STATUS: "Sandbox"
+    SANDBOX_HELP: "Sandbox shows you demo ads for testing purposes"
+    PLUGIN_STATUS: "Plugin Status"
+
+    OPTIONS_LABEL: "Options"
+    OPTIONS:
+      TYPE: "Display Type"
+      BANNER: "Banner"
+      FIXED: "Fixiert"
+      DIRECTION: "Orientation"
+      LEFT: "Left"
+      RIGHT: "Right"
+      TOP: "Top"
+      BOTTOM: "Bottom"
+      PRIORITY: "Priority"
+      PRIORITY_HELP: "Priority of AdSense, if it is added to the pipeline Grav: larger values are loaded first"
+      PIPELINE: "Pipeline"
+      LOAD: "Load"
+      LOAD_HELP: 'Load AdSense aynchronously (async), delayed (defer) or synchronous (none) method'
+      NONE: "None"
+      ASYNC: "Async"
+      DEFER: "Defer"
+      RESOURCE: "AdSense API JavaScript"
+
+    DATA_LABEL: "Keys"
+    DATA_HELP: "Further information can be found on google.com/adsense/"
+    DATA:
+      CLIENT: "AdSense Client-ID"
+      SLOT: "AdSense Slot-ID"

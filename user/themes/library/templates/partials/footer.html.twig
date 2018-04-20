@@ -1,0 +1,71 @@
+<footer id="footer">
+    <div class="uk-container uk-container-center uk-vertical-align-top">
+        <div class="uk-grid">
+            <div class="uk-width-2-4">
+                <form class="uk-form">
+                    <fieldset>
+                        <legend>Contact Us</legend>
+                        <div class="uk-form-row">
+                            <input type="text" placeholder="Your Name">
+                        </div>
+                        <div class="uk-form-row">
+                            <input type="text" placeholder="Your Email">
+                        </div>
+                        <div class="uk-form-row">
+                            <textarea placeholder="Message"></textarea>
+                        </div>
+                        <div class="uk-form-row">
+                            <button class="uk-button"><i class="uk-icon-envelope-o"></i> Submit</button>
+                        </div>
+                    </fieldset>
+                </form>
+
+
+            </div>
+            <div class="uk-width-1-4">
+
+
+
+            </div>
+            <div class="uk-width-1-4">
+                <h4>Other Links</h4>
+                <ul class="uk-list uk-list-space">
+                    {% for link in site.quicklinks %}
+                        <li><a href="{{ link.url }}">{{ link.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+    </div>
+    <div class="uk-width-1-1">
+        <nav class="uk-navbar uk-navbar-attached">
+            <div class="uk-container uk-container-center">
+                <div class="uk-navbar-content">
+                   
+                </div>
+     
+                <div class="uk-navbar-flip">
+                    <div class="uk-button-group">
+                        <a href="#" class="uk-button" data-uk-smooth-scroll data-uk-tooltip title="To Top"><i class="uk-icon-arrow-up"></i></a>
+                        {% if config.plugins.admin.enabled and admin.user.username %}
+                            <a href="{{ config.plugins.admin.route }}/pages/{{ page.slug }}" class="uk-button" data-uk-tooltip title="Edit this Page"><i class="uk-icon-dashboard"></i></a>
+                        {% else %}
+                            <a href="{{ config.plugins.admin.route }}" class="uk-button" data-uk-tooltip title="Login to Dashboard"><i class="uk-icon-dashboard"></i></a>
+                        {% endif %}                      
+                    </div>
+                </div>
+
+                <div class="uk-navbar-content uk-navbar-center">
+                    
+                </div>
+
+
+             </div>
+        </nav> 
+
+    </div>
+
+
+</footer>

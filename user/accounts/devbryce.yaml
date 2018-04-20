@@ -1,0 +1,14 @@
+email: devinkbryce@gmail.com
+fullname: 'Devin Bryce'
+title: Maestro
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$vmHOwsKB/QabA3meJiARXOIT8O6y6C5vkHdUQcK3dqwT9d3/47hs6
+language: en
+login_attempts: {  }
+twofa_secret: ZPC6RYD5HMQIAP6LVGAJUDMOQKETMFJQ
