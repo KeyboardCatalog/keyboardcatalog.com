@@ -9,7 +9,7 @@ taxonomy:
     lighting: [In Switch LEDs]
     programmability: [Fully Programmable, Jigon]
     creator: [LifeZone]
-    weblink: [http://lzlife.tistory.com/344]
+    weblink: [http://lzlife.tistory.com/entry/LZ-CLSm-1]
     availability: [Group Buy]
 image: lz-cls-m-bot.jpg
 ---
@@ -57,7 +57,7 @@ image: lz-cls-m-bot.jpg
 ---
 
 ###More Info
-* Original prototype on [LifeZone's blog](http://lzlife.tistory.com/344)
+* Original prototype on [LifeZone's blog](http://lzlife.tistory.com/entry/LZ-CLSm-1)
 
 <a name="gallery"></a>
 
