@@ -63,7 +63,7 @@ image: canoe1.jpg
 ---
 
 ###How to Program
-- 
+- Use Bootmapper Client
 
 <a name="mods"></a>
 
