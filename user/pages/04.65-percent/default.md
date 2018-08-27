@@ -20,8 +20,7 @@ cover: header.jpg
 
 **65% Keyboards to be completed:** 
 
-
-- LXV - From ThesisCamper
+- Quefrency65 - Split 65% PCBs from Keeb.io
 - TGR 65TE - Soon™ : A TGR910 without a top corner blocker as teased on [TypeMachina.com/tgr-1](https://www.typemachina.com/tgr-1/)
 - [Lynx](http://sonorankeyboards.com/#lynx)
 - [HiddenLab 65%](https://hidden-lab.com/modules/jscomposer/uploads/keyboard.png) Teased on [Gundam GB Page](https://hidden-lab.com/page/gundam-x-hidden-lab)
