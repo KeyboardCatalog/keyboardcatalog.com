@@ -54,7 +54,8 @@ image: yd68.jpg
 ---
 
 ###Mods &amp; Addons
-
+- Solar Powered Bluetooth Mod on [Reddit](https://www.reddit.com/r/MechanicalKeyboards/comments/9152y5/yd68_65_bluetooth_solar_powered/)
+![](https://i.redd.it/0vpjr1nninb11.jpg)
 
 <a name="misc"></a>
 
