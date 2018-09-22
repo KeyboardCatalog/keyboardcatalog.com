@@ -54,7 +54,7 @@ cover: header.jpg
      *  Designer of GMK Plum & GMK Necro
 * #####[MechKeys.ca - Canadian Proxy](https://mechkeys.ca/collections/group-buys)
      *  Designer of MechMini 2
-* #####[TheKey.Compay](https://thekey.company/)
+* #####[TheKey.Company](https://thekey.company/)
 * #####[Mitormk.com](https://mitormk.com/)
      *  Designer of Godspeed / Canvas / Laser / 3Run / Overcast / Pulse
 * #####[Matt3o.com](https://matt3o.com/)
@@ -115,7 +115,7 @@ cover: header.jpg
 * #####[Input.Club - K-Type / WhiteFox / Infinity Ergodox](https://input.club/)
      * They also sell their goods on [Kono.Store](https://kono.store/)
 * #####[Mehkee.com](https://mehkee.com/collections/keyboards)
-* #####[TheKey.Company]()
+* #####[TheKey.Company](https://thekey.company/)
 * #####[KBDFans.cn - GroupBuys](https://kbdfans.cn/collections/group-buy)
      * All of their products are also available on [AliExpress](https://kbdfans.aliexpress.com/store/2230037?spm=2114.12010612.0.0.1291df7bBzXWgP)
 * #####[KBDFans.cn - Keyboards](https://kbdfans.cn/collections/keyboard) 
