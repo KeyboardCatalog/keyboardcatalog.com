@@ -26,7 +26,7 @@ cover: header.jpg
 ###Kits
 - KC60
 - Infinity 60% - https://input.club/devices/infinity-keyboard/
-- Atreus62
+- [Atreus62](https://shop.profetkeyboards.com/category/atreus62)
 - Preonic
 - XD75RE
 - [LJD61UP]()
