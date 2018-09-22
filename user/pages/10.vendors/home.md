@@ -106,6 +106,11 @@ cover: header.jpg
 * #####[WASDKeyboards.com](http://www.wasdkeyboards.com/)
 * #####[FlashQuark.com](https://flashquark.com/product-category/keyboards/)
 * #####[FlashQuark.com - Pro Micro / Standoffs](https://flashquark.com/product-category/custom-keyboard-parts/)
+* #####[ProfetKeyboards.com - ErgoDox PCBs, Kits & Cases](https://shop.profetkeyboards.com/category/ergodox)
+	 * Custom builds available.
+* #####[ProfetKeyboards.com - Atreus62 Full builds, PCBs, Kits & Cases](https://shop.profetkeyboards.com/category/atreus62)
+* #####[ProfetKeyboards.com - MiniDox PCBs & Kits](https://shop.profetkeyboards.com/category/minidox)
+	 * MiniDox cases also available via custom order form
 * #####[Keeb.io - Split Keyboards](https://keeb.io/)
 * #####[SwitchTio.com - PCBs](http://www.switchtop.com/products)
 * #####[MechKeys.ca - Group Buys](https://mechkeys.ca/collections/group-buys)
