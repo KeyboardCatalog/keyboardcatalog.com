@@ -50,7 +50,8 @@ image: alu682.jpg
 ---
 
 ###How to Program
-
+- This is a PS2AVRGB PCB
+- Use Bootmapper Client
 
 <a name="mods"></a>
 

@@ -12,21 +12,25 @@ cover: header.jpg
 ---
 
 **75% Keyboards to be added:** 
-- [Drevo Gramr]()
-- [Drevo Excalibur]()
-- [Noppo Choco Mini]()
-- [Vortex Race]()
-- [Duck Octogon]()
-- [b.Mini]()
+OEM Boards: 
+- Drevo Gramr
+- Drevo Excalibur
 - Keycool84
-- Plum topre 75%
-- LZ SK
+- Plum84
+- Plum75
+- Noppo Choco Mini
+- Vortex Race
+- KBT Race
+
+Custom Boards:
+- Duck Octogon
+- b.Mini
 - Leeku SQ
-- Singa
 - TX75
 - OTD MX Mini
 - GON MX Mini
-- LZ MX Mini 
-- LZ MX Mini SE
-- LZ CLS Mini - http://lzlife.tistory.com/entry/LZ-CLSm-1
 - DeltaSplit75
+- VE.A
+- [Fox Orange75](https://en.zfrontier.com/collections/keyboards/products/foxlab-orange75)
+- [CapsUnlocked CU75](https://caps-unlocked.com/cu75-base-kit/) / [GeekHack IC](https://geekhack.org/index.php?topic=91767.0)
+- 

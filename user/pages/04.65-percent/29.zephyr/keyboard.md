@@ -19,7 +19,9 @@ image: zephyr_sm.jpg
 ---
 
 ###Where to Buy
-- $550 - Group Buy on [ZealPC.net](https://zealpc.net/collections/group-buy-pre-orders/products/zephyr)
+- $600 - Group Buy on [ZealPC.net](https://zealpc.net/collections/group-buy-pre-orders/products/zephyr)
+   - Note: Round One was $550 / Round two is $600
+   
 
 <a name="albums"></a>
 

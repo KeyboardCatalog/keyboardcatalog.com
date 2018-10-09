@@ -50,7 +50,8 @@ image: tgr910.jpg
 ---
 
 ###How to Program
-- PS2AVRGB PCB / Programming Tool
+- This is a PS2AVRGB PCB aka Winkeyless PCB 
+- Use Bootmapper Client
 
 <a name="mods"></a>
 
